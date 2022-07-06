@@ -1,13 +1,4 @@
-<?php
-include "header.php";
-echo " <h1>Functions</h1>
-    <h2>Basic Functions</h2>";
-//    Declaring the function 
-function add($a, $b, $c)
-{
-    $total = $a + $b + $c;
-    echo $total . "<br>";
-}
+
 
 add(1, 10, 9);
 add(5, 3, 9);
